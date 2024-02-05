@@ -1,0 +1,89 @@
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: black;
+}
+
+.img-logo {
+    margin-right: 50px;
+    margin-left: 3%;
+}
+
+.nav-item-ps {
+    margin: 0px 20px;
+}
+
+.div-main-text {
+    text-align: center;
+}
+
+.img-intro {
+    float: left;
+    width: 10%;
+    margin-top: 2%;
+    margin-right: 5%;
+}
+
+.text-intro {
+    text-align: center;
+}
+
+.card-links1 {
+    text-decoration: none;
+    color: black;
+}
+
+.card-links1:hover {
+    text-decoration: underline;
+    font-size: 21px;
+}
+
+.footer {
+    width: 100%;
+}
+
+.footer-1 {
+    width: 100%;
+}
+
+.footer-text {
+    color: white;
+}
+
+.list-text {
+    list-style-type: none;
+}
+
+.list-text a {
+    text-decoration: none;
+}
+
+.list-text a:hover {
+    text-decoration: underline;
+    font-size: 17px;
+}
+
+.footer-img {
+    width: 180px;
+}
+
+.copyright {
+    font-size: 13px;
+    text-align: center;
+}
+
+
+/*.footer-premi {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}*/
